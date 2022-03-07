@@ -38,6 +38,11 @@
     A copy of the code can be found here: https://github.com/swagshall/ecomBackend
 
   ## Demo
+    For a demo for this apllication please follow the following links:
+    Part 1:
+    https://drive.google.com/file/d/1ZEXX55z39kVZ-tlLd8-R7WRu-22U27sP/view
+    Part 2:
+    https://drive.google.com/file/d/1UroPjT_R2r8QeiqAIbn35KQFx9bT_JsL/view
   
 
 
